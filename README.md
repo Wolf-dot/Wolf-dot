@@ -1,4 +1,4 @@
-- 👋 Hi, Wojciech
+- 👋 Hi, my name is Wojciech!
 - 👀 I’m interested in making JS based party games for me and my friends.
 - 🌱 I’m currently learning socket.io and Vue!
 
