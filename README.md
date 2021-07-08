@@ -1,4 +1,5 @@
-- 👋 Hi, my name is Wojciech!
+## 👋 Hi, my name is Wojciech!
+
 - 👀 I’m interested in making fun web based apps and projects for me and my friends to enjoy!
 - 🌱 Currently learning Vue!
 - 🐠 Most of my projects are hosted on [Glitch](https://glitch.com/@Wolf-dot) so feel free to take a look!
