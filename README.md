@@ -3,7 +3,7 @@
 - 🌱 Currently learning Vue!
 - 🐠 Most of my projects are hosted on [Glitch](https://glitch.com/@Wolf-dot) so feel free to take a look!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wolf-dot&layout=compact&hide=jupyter%20notebook)
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wolf-dot&layout=compact&hide=jupyter%20notebook)
 
 
 
