@@ -1,8 +1,8 @@
 ## 👋 Hi, my name is Wojciech!
 
-- 👀 I’m interested in making fun web based apps and projects for me and my friends to enjoy!
-- 🌱 Currently learning Vue!
-- 🐠 Most of my projects are hosted on [Glitch](https://glitch.com/@Wolf-dot) so feel free to take a look!
+- 👀 I’m currently interested in CyberSecurity, both blue and red teaming!
+- 👾 I like to make little fun web based apps and projects for me and my friends to enjoy!
+- 🐠 You can see all my links on my [Links Page](https://voitech-bio.glitch.me/).
 
 - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wolf-dot&layout=compact&hide=jupyter%20notebook)
 
