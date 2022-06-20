@@ -1,6 +1,6 @@
 ## 👋 Hi, my name is Wojciech!
 
-- 👀 I’m currently interested in CyberSecurity, both blue and red teaming!
+- 👀 I’m currently interested in CyberSecurity, both blue and red teaming as well as digital forensics!
 - 👾 I like to make little fun web based apps and projects for me and my friends to enjoy!
 - 🐠 You can see all my links and cool projects in my [Links Page](https://voitech-bio.glitch.me/).
 
